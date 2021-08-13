@@ -17,7 +17,7 @@
 				"folderPath": "sales",
 				"container": "curated-02c1af03-6c54-4150-8381-fdb7bfc4cd5c"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "\t",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
